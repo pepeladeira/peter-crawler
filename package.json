@@ -1,0 +1,17 @@
+{
+  "name": "peter-crawler",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pepeladeira/peter-crawler.git"
+  },
+  "author": "Pedro Ladeira",
+  "keywords": [
+    "peter-crawler",
+    "crawler",
+    "scrapping"
+  ],
+  "description": "Peter Crawler is here to gather all the browser information you need"
+}
